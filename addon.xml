@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.jimmydore"
+	name="Jimmy Dore Show"
+	version="1.0.0"
+	provider-name="leopheard">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Jimmy Dore Show video addon for the Kodi media centre</summary>
+    <description lang="en">Jimmy Dore and Stefané Zamorano bring you laughs and some of your favorite comedian guests every week as they discuss comedy and everything else in the show of the same name. On Wednesdays, join Jimmy and his live Jimmy Dore Show on radio KPFK 90.7 FM Los Angeles, bringing you the latest in Pop and Politics. Nearly three hours of free Jimmy Dore comedy is available every week via podcast.</description>
+    <platform>all</platform>
+    <forum></forum>
+    <source>https://github.com/leopheard/jimmydore.git</source>
+    <website>https://www.jimmydorecomedy.com/</website>
+    <email>leopheard@gmail.com</email>
+    <license>The MIT License (MIT)</license>
+	<assets>
+			<icon>resources/media/icon.jpg</icon>
+			<fanart>resources/media/fanart.png</fanart>
+			<screenshot>resources/media/screen1.jpeg</screenshot>
+			<screenshot>resources/media/screen2.png</screenshot>
+			<screenshot>resources/media/screen3.jpeg</screenshot>
+		</assets>
+  </extension>
+</addon>

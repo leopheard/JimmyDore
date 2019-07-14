@@ -20,12 +20,12 @@
     <website>https://www.jimmydorecomedy.com/</website>
     <email>leopheard@gmail.com</email>
     <license>The MIT License (MIT)</license>
-	<assets>
+<assets>
 			<icon>resources/media/icon.jpg</icon>
 			<fanart>resources/media/fanart.png</fanart>
-			<screenshot>resources/media/screen1.jpeg</screenshot>
-			<screenshot>resources/media/screen2.png</screenshot>
-			<screenshot>resources/media/screen3.jpeg</screenshot>
+			<screenshot>resources/media/screen1.jpg</screenshot>
+			<screenshot>resources/media/screen2.jpg</screenshot>
+			<screenshot>resources/media/screen3.png</screenshot>
 		</assets>
   </extension>
 </addon>

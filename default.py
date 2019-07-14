@@ -39,7 +39,7 @@ def main_list(params):
     plugintools.add_item( 
         #action="", 
         title="The Jimmy Dore Show",
-        url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID+"/",
+        url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID+"/",
         thumbnail=icon,
         folder=True )
 

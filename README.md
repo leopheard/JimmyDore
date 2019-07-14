@@ -1,4 +1,4 @@
-The Jimmy Dore Show podcasts<br>
+The Jimmy Dore Show<br>
 =============================
 
 KODI / XBMC / Firestick video addon for the Jimmy Dore Show podcasts<br>
